@@ -1,2 +1,5 @@
 # macOS-Catalina-EFI
- EFI for Asrock B365M-HDV, i5-9400F, GT650
+ Hackintosh EFI using Opencore
+ - Mainboard: Asrock B365M-HDV
+ - CPU: Intel core i5-9400F
+ - GPU: NVidia GTX650
